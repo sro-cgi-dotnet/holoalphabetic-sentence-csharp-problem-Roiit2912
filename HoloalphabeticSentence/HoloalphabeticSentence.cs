@@ -13,7 +13,7 @@ namespace HoloalphabeticSentence
  
         int index = 0;
  
-        // Traverse all characters
+        //To Traverse all characters
         for (int i = 0; i < input.Length; i++)
         {
             // If uppercase character, subtract 'A' to find index.
